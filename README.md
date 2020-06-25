@@ -14,7 +14,7 @@ _Projects and exercises done for the [CS50 AI course](https://cs50.harvard.edu/a
       
 1. Knowledge      
 
-   a. AI to olve logic puzzles  
+   a. AI to solve logic puzzles  
       * [Problem statement](https://cs50.harvard.edu/ai/2020/projects/1/knights/)  
       * [TODO: My code ](knights.py)  
   
