@@ -1,5 +1,5 @@
 # CS50AI projects and exercises
-_This is to document my progress in the [CS50 AI course](https://cs50.harvard.edu/ai/2020/)_  
+_Projects and exercises done for the [CS50 AI course](https://cs50.harvard.edu/ai/2020/)_  
 
 0. Searching  
 
