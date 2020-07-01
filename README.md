@@ -1,5 +1,5 @@
 # CS50AI projects and exercises
-_This is to document my progress in the [CS50 AI course](https://cs50.harvard.edu/ai/2020/)_  
+_Projects and exercises I did in the [CS50 AI course](https://cs50.harvard.edu/ai/2020/)_  
 
 0. Searching  
 
@@ -18,7 +18,8 @@ _This is to document my progress in the [CS50 AI course](https://cs50.harvard.ed
 
    a. AI to solve logic puzzles  
       * [Problem statement](https://cs50.harvard.edu/ai/2020/projects/1/knights/)  
-      * [TODO: My code ](knights.py)  
+      * [My code](knights.py)  
+      * [Auxillary](logic.py)
   
    b. AI to play Minesweeper    
       * [Problem statement](https://cs50.harvard.edu/ai/2020/projects/1/minesweeper/)  
