@@ -18,7 +18,7 @@ _Projects and exercises I did in the [CS50 AI course](https://cs50.harvard.edu/a
 
    a. AI to solve logic puzzles  
       * [Problem statement](https://cs50.harvard.edu/ai/2020/projects/1/knights/)  
-      * [My code](knights.py)  
+      * [My code](puzzle.py)  
       * [Auxillary](logic.py)
   
    b. AI to play Minesweeper    
