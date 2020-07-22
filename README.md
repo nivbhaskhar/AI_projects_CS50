@@ -11,6 +11,7 @@ _Projects and exercises I did in the [CS50 AI course](https://cs50.harvard.edu/a
    b. AI to play Tic-Tac-Toe  
       * [Problem statement](https://cs50.harvard.edu/ai/2020/projects/0/tictactoe/)  
       * [My code](tictactoe.py) 
+      * [Auxiliary](runner.py)
       * [Requirements](requirements0b.txt)  
       
       
@@ -19,11 +20,13 @@ _Projects and exercises I did in the [CS50 AI course](https://cs50.harvard.edu/a
    a. AI to solve logic puzzles  
       * [Problem statement](https://cs50.harvard.edu/ai/2020/projects/1/knights/)  
       * [My code](puzzle.py)  
-      * [Auxillary](logic.py)
+      * [Auxiliary](logic.py)
   
    b. AI to play Minesweeper    
       * [Problem statement](https://cs50.harvard.edu/ai/2020/projects/1/minesweeper/)  
-      * [TODO: My code](minesweeper.py) 
+      * [My code](minesweeper.py)
+      * [Auxiliary](runner_minesweeper.py)
+      * [Requirements](requirements1b.txt)  
   
   
 2. Uncertainty 
