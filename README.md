@@ -5,39 +5,39 @@ _Projects and exercises I did in the [CS50 AI course](https://cs50.harvard.edu/a
 
    a. AI to find the degree of separation between actors
       * [Problem statement](https://cs50.harvard.edu/ai/2020/projects/0/degrees/)  
-      * [My code](degrees.py)  
-      * [Sample input](small)
+      * [My code](Project0/degrees.py)  
+      * [Sample input](Project0/small)
   
    b. AI to play Tic-Tac-Toe  
       * [Problem statement](https://cs50.harvard.edu/ai/2020/projects/0/tictactoe/)  
-      * [My code](tictactoe.py) 
-      * [Auxiliary](runner.py)
-      * [Requirements](requirements0b.txt)  
+      * [My code](Project0/tictactoe.py) 
+      * [Auxiliary](Project0/runner_tictactoe.py)
+      * [Requirements](Project0/requirements0b.txt)  
       
       
 1. Knowledge      
 
    a. AI to solve logic puzzles  
       * [Problem statement](https://cs50.harvard.edu/ai/2020/projects/1/knights/)  
-      * [My code](puzzle.py)  
-      * [Auxiliary](logic.py)
+      * [My code](Project1/puzzle.py)  
+      * [Auxiliary](Project1/logic.py)
   
    b. AI to play Minesweeper    
       * [Problem statement](https://cs50.harvard.edu/ai/2020/projects/1/minesweeper/)  
-      * [My code](minesweeper.py)
-      * [Auxiliary](runner_minesweeper.py)
-      * [Requirements](requirements1b.txt)  
+      * [My code](Project1/minesweeper.py)
+      * [Auxiliary](Project1/runner_minesweeper.py)
+      * [Requirements](Project1/requirements1b.txt)  
   
   
 2. Uncertainty 
 
    a. AI to rank web pages by importance 
       * [Problem statement](https://cs50.harvard.edu/ai/2020/projects/2/pagerank/)  
-      * [My code](pagerank.py)  
-      * [Sample input](corpus0)  
+      * [My code](Project2/pagerank.py)  
+      * [Sample input](Project2/corpus0)  
        
   
    b. AI to assess the likelihood that a person will have a particular genetic trait  
       * [Problem statement](https://cs50.harvard.edu/ai/2020/projects/2/heredity/)  
-      * [My code](heredity.py)   
-      * [Sample input](family0.csv)  
+      * [My code](Project2/heredity.py)   
+      * [Sample input](Project2/family0.csv)  
